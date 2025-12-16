@@ -26,11 +26,12 @@ pos++;
   return result;
 }
 int main(){
-  string a = "1011";
+string a = "1011";
 string b = "01010";
 
-cout << addBinary(a, b);  // Output: 10001
+cout << addBinary(a, b);  
 
 }
+
 
 
